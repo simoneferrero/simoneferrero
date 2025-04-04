@@ -4,8 +4,8 @@
 <br />
 
 <h4 align="center"><b>What do I do for a living?</b></h4>
-<p align="center">Based in London, I'm currently working at <a href="https://www.opentable.com/">OpenTable</a>.</p>
-<p align="center">I lead the front end development of the communications team.</p>
+<p align="center">Based in London, I'm currently working at <a href="https://www.thirdfort.com/">Thirdfort</a>.</p>
+<p align="center">I'm part of the team tasked with re-writing our main application in a more modern, sustainable stack.</p>
 <p align="center">We take pride in the art of developing code, and we strive for improvement.</p>
 <br />
 
